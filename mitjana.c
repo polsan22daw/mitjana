@@ -5,7 +5,7 @@ int main() {
 	float mitjana=0.0;
 	float nou_valor=0.0;
 	int numero_repeticions=0;
-	char consulta='s';
+	char consulta='d';
 	
 	while(consulta=='s') {
 		printf("Dòna la següent dada: ");
